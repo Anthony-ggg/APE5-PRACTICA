@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Anthony",
+        "email": "anthony@example.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Daniela",
+        "email": "daniela@example.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos",
+        "email": "carlos@example.com"
+    },
+    {
+        "id": 1763734160,
+        "nombre": "Anthony",
+        "email": "anthonygutiierrez04@gmail.com"
+    },
+    {
+        "id": 1763734285,
+        "nombre": "Anthony",
+        "email": "anthonygutiierrez04@gmail.com"
+    },
+    {
+        "id": 1763734286,
+        "nombre": "Anthony",
+        "correo": "anthony.gutierrez@unl.edu.ec"
+    },
+    {
+        "id": 1763734287,
+        "nombre": "Anthony Damian",
+        "correo": "cuenta.n@com"
+    },
+    {
+        "id": 1763734288,
+        "nombre": "Anthony Damian",
+        "correo": "cuenta.n@com"
+    },
+    {
+        "id": 1763734289,
+        "nombre": "Anthony Damian",
+        "correo": "cuenta.n@com"
+    },
+    {
+        "id": 1763734290,
+        "nombre": "Anthony Damian",
+        "correo": "cuenta.n@com"
+    }
+]

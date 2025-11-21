@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<h2>Gestión de Usuarios</h2>
+<h3>Lista de usuarios registrados</h3>
+
+{% if usuarios %}
+    {% for u in usuarios %}
+        <div class="card">
+            <p><strong>ID:</strong> {{ u.id }}</p>
+            <p><strong>Nombre:</strong> {{ u.nombre }}</p>
+            <p><strong>Correo:</strong> {{ u.correo }}</p>
+        </div>
+    {% endfor %}
+{% else %}
+    <p>No hay usuarios registrados.</p>
+{% endif %}
+
+{% endblock %}

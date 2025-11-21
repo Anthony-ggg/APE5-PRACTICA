@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "Anthony",
+        "correo": "anthony.gutierrez@unl.edu.ec"
+    },
+    {
+        "id": 2,
+        "nombre": "Anthony Damian",
+        "correo": "cuenta.n@com"
+    }
+]
